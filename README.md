@@ -31,7 +31,7 @@ Olá! Sou Marllon, tenho 32 anos e sou do Rio de Janeiro. Apaixonado por program
  <p align="left">🧑🏻‍🎓 Cursando Analise e Desenvolvimento de Sistemas na Unicesumar;</p>
  <p align="left">📚 Tenho dedicado meus estudos em JavsScript e em Python;</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/panisset_dev">Blog</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 se você gosta do que eu faço, talvez considere me comprar um café 🥺👉👈</p>
+ <p align="left">se você gosta do que eu faço, talvez considere me comprar um café ☕ 🥺👉👈</p>
 </div>
 
 </br>
