@@ -1,8 +1,16 @@
+<img align="right" width="150px" style="margin-top:-20px" src="https://raw.githubusercontent.com/marllonpanisset/marllonpanisset/refs/heads/main/avatar-github.png">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 <div dsplay="inline-block"> 
- <h1 align="left">👨🏻‍💻 Marllon Panisset</h1>
+ <h1 align="left">Marllon Panisset</h1>
 </div>
 
-Olá! Sou Marllon, tenho 32 anos e sou do Rio de Janeiro. Sou apaixonado por programação, gatos e café 🐱 ☕. Trabalho como Desenvolvedor Front-End há mais de 7 anos e estou sempre em busca de novos aprendizados e desafios.
+Olá! Sou Marllon, tenho 32 anos e sou do Rio de Janeiro. Sou apaixonado por programação, gatos e café 🐱 ☕. Trabalho como Desenvolvedor Front-End há mais de 10 anos e estou sempre em busca de novos aprendizados e desafios.
 
 </br>
 </br>
