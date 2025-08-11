@@ -11,7 +11,7 @@
  <h1 align="left">Marllon Panisset</h1>
 </div>
 
-Meu nome é Marllon Panisset, Desenvolvedor Front-End com mais de 10 anos de experiência, atualmente ampliando meus conhecimentos em Back-End para atuar como Desenvolvedor Full Stack. Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar.
+ Meu nome é Marllon Panisset, Desenvolvedor Front-End com mais de 10 anos de experiência, Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar e ampliando meus conhecimentos em Back-End na Alura para atuar como Desenvolvedor Full Stack.
 
 Moro nessa cidade linda a caótica chamada Rio de Janeiro, amo gatos e sou movido a café e JavaScript. { ☕ }
 
