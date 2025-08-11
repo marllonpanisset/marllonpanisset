@@ -1,4 +1,4 @@
-<img align="right" width="150px" style="margin-top:-20px" src="https://raw.githubusercontent.com/marllonpanisset/marllonpanisset/refs/heads/main/avatar-github.png">
+<img align="right" width="150px" style="margin-top:-20px" src="https://raw.githubusercontent.com/marllonpanisset/marllonpanisset/refs/heads/main/avatar-github-chicara-branca.png">
 </br>
 </br>
 </br>
