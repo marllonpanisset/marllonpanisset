@@ -21,7 +21,7 @@ Olá! Sou Marllon, tenho 32 anos e sou do Rio de Janeiro. Sou apaixonado por pro
 
 </br>
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -45,7 +45,8 @@ Olá! Sou Marllon, tenho 32 anos e sou do Rio de Janeiro. Sou apaixonado por pro
 
 </br>
 
-📫 Você pode falar comigo por onde preferir: [Instagram](https://www.instagram.com/chmod700_/), [X](https://x.com/marllonpanisset), e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+### 📫
+[Instagram](https://www.instagram.com/typeof.dev/), [X](https://x.com/marllonpanisset), [Linkedin](https://www.linkedin.com/in/marllon-panisset/)
 
 </br>
 
