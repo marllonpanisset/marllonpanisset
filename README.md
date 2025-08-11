@@ -7,13 +7,13 @@
 </br>
 </br>
 
-<div dsplay="inline-block"> 
+<div display="inline-block"> 
  <h1 align="left">Marllon Panisset</h1>
 </div>
 
 Sou Marllon Panisset, Desenvolvedor Front-End com mais de uma década de experiência. Atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar e estou me especializando em Back-End pela Alura, expandindo minha atuação para o desenvolvimento Full Stack e buscando sempre criar soluções completas e impactantes.
 
-Moro nessa cidade linda a caótica chamada Rio de Janeiro, amo gatos e sou movido a café e JavaScript. { ☕ }
+Moro nessa cidade linda — e um tanto caótica — chamada Rio de Janeiro, amo gatos e sou movido a café e JavaScript. { ☕ }
 
 ### 📫
 [Instagram](https://www.instagram.com/typeof.dev/), [X](https://x.com/marllonpanisset), [Linkedin](https://www.linkedin.com/in/marllon-panisset/)
