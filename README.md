@@ -19,12 +19,6 @@ Moro nessa cidade linda — e um tanto caótica — chamada Rio de Janeiro, amo 
 [Instagram](https://www.instagram.com/typeof.dev/), [X](https://x.com/marllonpanisset), [Linkedin](https://www.linkedin.com/in/marllon-panisset/)
 
 </br>
-</br>
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-
-</br>
 
 ### 🖥️ 
 <code><img width="40px" src="https://www.svgrepo.com/show/452054/linux.svg" title = "Linux"/></code>
@@ -35,12 +29,9 @@ Moro nessa cidade linda — e um tanto caótica — chamada Rio de Janeiro, amo 
 <code><img width="40px" src="https://www.svgrepo.com/show/306466/next-dot-js.svg" title = "Next"/></code>
 <code><img width="40px" src="https://www.svgrepo.com/show/452210/git.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://www.svgrepo.com/show/452129/vs-code.svg" title = "VSCode"/></code>
-
 </br>
-
+</br>
 <p align="center">
-<a href="https://github.com/marllonpanisset">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marllonpanisset&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marllonpanisset&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
+
