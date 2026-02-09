@@ -16,7 +16,7 @@ Sou Marllon Panisset, Desenvolvedor Front-End com mais de uma década de experi�
 Moro nessa cidade linda — e um tanto caótica — chamada Rio de Janeiro, amo gatos e sou movido a café e JavaScript. { ☕ }
 
 ### 📫
-[Instagram](https://www.instagram.com/typeof.dev/), [X](https://x.com/marllonpanisset), [Linkedin](https://www.linkedin.com/in/marllon-panisset/)
+[Instagram](https://www.instagram.com/marllon.log/), [X](https://x.com/marllonpanisset), [Linkedin](https://www.linkedin.com/in/marllon-panisset/)
 
 </br>
 
