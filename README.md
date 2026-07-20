@@ -1,37 +1,20 @@
-<img align="right" width="150px" style="margin-top:-20px" src="https://raw.githubusercontent.com/marllonpanisset/marllonpanisset/refs/heads/main/avatar.png">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+# Olá! Eu sou Marllon Panisset 👋
 
-<div display="inline-block"> 
- <h1 align="left">Marllon Panisset</h1>
-</div>
+Analista de Suporte Técnico em transição para Application Support, com 11 anos de experiência em Tecnologia da Informação.
 
-Sou Marllon Panisset, Desenvolvedor Front-End com mais de uma década de experiência. Atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar e estou me especializando em Back-End pela Alura, expandindo minha atuação para o desenvolvimento Full Stack e buscando sempre criar soluções completas e impactantes.
+Minha carreira começou em suporte de infraestrutura em ambiente hospitalar, evoluiu para sustentação de aplicações web e e-commerces em produção e, hoje, meu foco é atuar com suporte a sistemas, troubleshooting, análise de incidentes e estabilidade de aplicações.
 
-Moro nessa cidade linda — e um tanto caótica — chamada Rio de Janeiro, amo gatos e sou movido a café e JavaScript. { ☕ }
+Minha experiência como desenvolvedor me permite investigar problemas além do sintoma, analisando logs, APIs, comportamento das aplicações e integrações para encontrar a causa raiz de falhas.
 
-### 📫
-[Instagram](https://www.instagram.com/marllon.log/), [X](https://x.com/marllonpanisset), [Linkedin](https://www.linkedin.com/in/marllon-panisset/)
+Atualmente estudo continuamente temas como:
 
-</br>
+- Application Support
+- SQL
+- Linux
+- Git
+- APIs REST
+- Inteligência Artificial aplicada ao suporte
+- Azure
+- Segurança da Informação
 
-### 🖥️ 
-<code><img width="40px" src="https://www.svgrepo.com/show/452054/linux.svg" title = "Linux"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/452092/react.svg" title = "React"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/306466/next-dot-js.svg" title = "Next"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/452210/git.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://www.svgrepo.com/show/452129/vs-code.svg" title = "VSCode"/></code>
-</br>
-</br>
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-
+Meu objetivo de carreira é evoluir para Analista de Suporte Pleno, posteriormente Especialista em Application Support e, no longo prazo, migrar para Segurança da Informação.
