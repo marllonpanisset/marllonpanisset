@@ -1,49 +1,43 @@
-🌐 Portfólio: [https://marllon.netlify.app](https://marllon.netlify.app) <br/>
-💼 LinkedIn: [https://www.linkedin.com/in/marllon-panisset](https://www.linkedin.com/in/marllon-panisset)<br/>
-📧 Contato: marllon.web@gmail.com
+🌐 **Portfólio:** https://marllon.netlify.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/marllon-panisset  
+📧 **Contato:** marllon.web@gmail.com
 
 # Olá! Eu sou Marllon Panisset 👋
 
-Profissional de Tecnologia da Informação com 11 anos de experiência, atuando na interseção entre suporte técnico, infraestrutura e aplicações web em produção.
+Profissional de Tecnologia da Informação com 11 anos de experiência em suporte técnico, infraestrutura e desenvolvimento de aplicações web.
 
-Minha trajetória começou com suporte técnico e infraestrutura em ambiente hospitalar, passando por manutenção de ambientes, atendimento N1/N2, troubleshooting e suporte a usuários, evoluindo posteriormente para sustentação e desenvolvimento de aplicações web.
+Minha experiência combina atendimento N1/N2, troubleshooting, sustentação de aplicações e desenvolvimento Front-End, permitindo investigar problemas além do sintoma e contribuir para soluções mais eficientes e confiáveis.
 
-Minha experiência como desenvolvedor Front-End me permite analisar problemas além do sintoma, investigando logs, APIs, integrações, comportamento das aplicações e fluxos de negócio para identificar causas raiz e propor soluções eficientes.
+## 💼 Experiência
 
-Atualmente direciono minha carreira para **Application Support**, unindo experiência em desenvolvimento, infraestrutura e suporte técnico para contribuir com a estabilidade, evolução e confiabilidade das aplicações.
-
-## Conhecimentos e experiência
-
-Tenho experiência prática com:
-
-- Suporte técnico N1/N2
-- Troubleshooting de aplicações e ambientes web
-- Análise de problemas em produção
+- Suporte Técnico N1/N2
+- Troubleshooting de aplicações
+- Sustentação de sistemas
 - Git e controle de versão
-- Linux em ambientes de desenvolvimento e troubleshooting
-- APIs REST e integrações
-- Desenvolvimento Front-End com React e Next.js
-- JavaScript, TypeScript e tecnologias web modernas
-- Manutenção e evolução de aplicações
+- Linux
+- APIs REST
+- React • Next.js • TypeScript
+- Manutenção e evolução de aplicações web
 
-## Áreas de aprimoramento
+## 📚 Atualmente aprofundando conhecimentos em
 
-Atualmente venho aprofundando meus conhecimentos em:
-
-- Application Support e sustentação de aplicações
-- SQL para análise de dados e troubleshooting
-- Cloud Computing (Azure)
-- Monitoramento e observabilidade de aplicações
+- SQL
+- Cloud Computing
+- Monitoramento e Observabilidade
 - Inteligência Artificial aplicada à tecnologia
 - Segurança da Informação
 
-## Objetivo profissional
+## 🎯 Objetivos profissionais
 
-Atuar como Analista de Application Support, contribuindo com análise de incidentes, troubleshooting, melhoria contínua e confiabilidade de sistemas, utilizando minha experiência em desenvolvimento e infraestrutura como diferencial.
+Atualmente busco oportunidades em **Application Support**, Suporte de Aplicações e Sustentação de Sistemas, áreas onde posso unir minha experiência em suporte, infraestrutura e desenvolvimento.
 
-## Projetos
+No longo prazo, pretendo evoluir minha carreira em operações de TI e ampliar minha atuação em **Segurança da Informação**, construindo esse caminho de forma consistente por meio de estudos, experiência prática e aprendizado contínuo.
 
-Confira meus projetos desenvolvidos utilizando tecnologias como React, Next.js, TypeScript, APIs e ferramentas modernas de desenvolvimento web.
+## 🚀 Projetos
 
-🚀 Portfólio:
-[https://marllon.netlify.app](https://marllon.netlify.app)
+Conheça alguns dos projetos desenvolvidos por mim:
+
+- 🌐 Portfólio — https://marllon.netlify.app
+- 💼 Brototec — https://brototec.vercel.app
+- 🏨 Pousada Profissional — https://pousada-profissional.netlify.app/
+- 🚀 Peaberu — https://peaberu.vercel.app/ *(em desenvolvimento)*
