@@ -4,36 +4,48 @@
 
 # Olá! Eu sou Marllon Panisset 👋
 
-Profissional de Tecnologia da Informação com 11 anos de experiência em **suporte técnico, infraestrutura e sustentação de aplicações em ambientes corporativos**.
+Profissional de Tecnologia da Informação com 11 anos de experiência em suporte técnico, infraestrutura, sustentação de aplicações e desenvolvimento web.
 
-Minha trajetória combina experiência em **atendimento N1/N2, troubleshooting, análise de incidentes, manutenção de sistemas e desenvolvimento de aplicações web**, permitindo atuar na investigação de problemas, entendimento das causas e busca por soluções mais eficientes.
+Minha experiência reúne atendimento a usuários, análise e resolução de incidentes, sustentação de aplicações em produção e desenvolvimento de aplicações web, proporcionando uma visão integrada entre suporte e desenvolvimento.
 
-Tenho experiência trabalhando com aplicações em produção, controle de versão, integrações web e colaboração com equipes técnicas para garantir estabilidade e evolução dos sistemas.
+Ao longo da minha trajetória atuei colaborando com equipes técnicas na investigação de problemas, manutenção de sistemas, integrações web e melhoria contínua de aplicações utilizadas em ambiente corporativo.
+
+---
 
 ## 💼 Experiência
 
-- Suporte técnico N1/N2 e atendimento a usuários
-- Sustentação de aplicações e sistemas em produção
+- Suporte técnico N1/N2
+- Atendimento e suporte a usuários
+- Sustentação de aplicações em produção
 - Troubleshooting e análise de incidentes
-- Gestão de chamados e resolução de problemas
-- Diagnóstico de aplicações web utilizando DevTools
+- Gestão de chamados
+- Diagnóstico de aplicações utilizando DevTools
 - Controle de versão com Git/GitHub
 - Ambientes Windows e Linux
-- Redes TCP/IP e infraestrutura
+- Redes TCP/IP
 - APIs REST e integrações web
-- React.js, Next.js e TypeScript como diferencial técnico
+- Desenvolvimento com React.js, Next.js e TypeScript
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Suporte e Infraestrutura**
+### Infraestrutura
+
 - Windows
 - Linux
 - Redes TCP/IP
 - Hardware
+
+### Suporte
+
 - Troubleshooting
 - Gestão de chamados
+- Application Support
+- DevTools
 
-**Desenvolvimento**
+### Desenvolvimento
+
 - JavaScript
 - TypeScript
 - React.js
@@ -44,41 +56,73 @@ Tenho experiência trabalhando com aplicações em produção, controle de vers�
 - APIs REST
 - Git/GitHub
 
-**Dados e Automação**
+### Dados e Automação
+
 - Python
 - SQL
-- Streamlit
 - Pandas
+- Streamlit
 
-## 📚 Atualmente aprofundando conhecimentos em
+---
 
-- Cloud Computing
-- Monitoramento e Observabilidade
-- Segurança da Informação
-- Inteligência Artificial aplicada à tecnologia
-- Dados e automações com Python
+## 📚 Atualmente estudando
+
+Atualmente estou aprofundando conhecimentos em:
+
+- Introdução à Cibersegurança (Cisco Skills for All)
+- SQL
+- APIs REST
+- Testes automatizados com Vitest e React Testing Library
+- Gerenciamento de estado em aplicações React (Context API e Redux Toolkit)
+- Gerenciamento de dados assíncronos com React Query (TanStack Query)
+
+---
+
+## ✅ Boas práticas de desenvolvimento
+
+Também aplico boas práticas de desenvolvimento em projetos pessoais, incluindo:
+
+- Arquitetura baseada em componentes reutilizáveis
+- Organização modular de componentes
+- Testes automatizados com Vitest e React Testing Library
+- Tipagem com TypeScript
+- SEO utilizando Metadata API do Next.js
+- Controle de versão com Git
+
+---
 
 ## 🎯 Objetivo profissional
 
-Busco oportunidades em **Application Support, Suporte de Aplicações e Sustentação de Sistemas**, áreas onde posso unir minha experiência em suporte, infraestrutura e desenvolvimento para atuar na análise, estabilidade e evolução de aplicações.
+Busco oportunidades como **Desenvolvedor Front-end** ou **Analista de Suporte**, áreas nas quais posso aplicar minha experiência em suporte técnico, infraestrutura e desenvolvimento web para contribuir com a construção, manutenção e evolução de aplicações.
 
-No longo prazo, pretendo evoluir minha carreira em operações de TI e ampliar minha atuação em **Segurança da Informação**, construindo esse caminho através de aprendizado contínuo, experiência prática e desenvolvimento técnico.
+No longo prazo, pretendo construir uma carreira sólida em tecnologia e, futuramente, direcionar minha especialização para Segurança da Informação, evoluindo por meio de aprendizado contínuo, experiência prática e desenvolvimento técnico.
+
+---
 
 ## 🚀 Projetos
 
-Alguns projetos desenvolvidos para aplicar conhecimentos técnicos e explorar soluções digitais:
+Alguns projetos desenvolvidos para aplicar conhecimentos técnicos e explorar diferentes áreas da tecnologia.
 
-- 🌐 **Portfólio Profissional**  
-  https://marllon.netlify.app
+### 🌐 Portfólio Profissional
 
-- 🏨 **Pousada Profissional** — Site modelo para hospedagem utilizando Next.js  
-  https://pousada-profissional.netlify.app/
+Portfólio desenvolvido em Next.js com foco em arquitetura de software, SEO, testes automatizados, acessibilidade e documentação da minha trajetória profissional.
 
-- 💼 **Brototec** — Conceito de produto digital para pequenos negócios  
-  https://brototec.vercel.app
+https://marllon.netlify.app
 
-- 📊 **Dashboard Interativo de Salários** — Análise de dados utilizando Python e Streamlit  
-  https://dashboard-interativo-com-python.streamlit.app/
+### 💼 Brototec
 
-- 🚀 **Peaberu** — Projeto em desenvolvimento explorando SaaS e soluções digitais para hospedagem  
-  https://peaberu.vercel.app/
+Conceito de plataforma para organização da presença digital de pequenos negócios, explorando desenvolvimento de aplicações web, arquitetura modular e experiência do usuário.
+
+https://brototec.vercel.app
+
+### 🏨 Pousada Profissional
+
+Site modelo desenvolvido em Next.js para demonstrar uma solução moderna de presença digital para meios de hospedagem.
+
+https://pousada-profissional.netlify.app/
+
+### 📊 Dashboard Interativo de Salários
+
+Aplicação para análise de dados utilizando Python, Pandas e Streamlit.
+
+https://dashboard-interativo-com-python.streamlit.app/
