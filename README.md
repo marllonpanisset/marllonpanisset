@@ -1,128 +1,152 @@
-🌐 **Portfólio:** https://marllon.netlify.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/marllon-panisset  
-📧 **Contato:** marllon.web@gmail.com
-
 # Olá! Eu sou Marllon Panisset 👋
 
-Profissional de Tecnologia da Informação com 11 anos de experiência em suporte técnico, infraestrutura, sustentação de aplicações e desenvolvimento web.
+**Desenvolvedor Front-end | React · Next.js · TypeScript**
 
-Minha experiência reúne atendimento a usuários, análise e resolução de incidentes, sustentação de aplicações em produção e desenvolvimento de aplicações web, proporcionando uma visão integrada entre suporte e desenvolvimento.
+Minha trajetória com tecnologia começou ainda na adolescência: comecei a estudar HTML em 2006, fiz minha primeira formação em informática em 2007 e trabalho profissionalmente com Tecnologia da Informação desde 2011.
 
-Ao longo da minha trajetória atuei colaborando com equipes técnicas na investigação de problemas, manutenção de sistemas, integrações web e melhoria contínua de aplicações utilizadas em ambiente corporativo.
+Depois de construir uma base em suporte técnico, manutenção, infraestrutura e sustentação de aplicações, direcionei minha carreira para o desenvolvimento front-end em 2016.
 
----
+Hoje, curso **Engenharia de Software na UniCesumar** e concentro meu desenvolvimento profissional na construção de aplicações web bem estruturadas, acessíveis, testáveis e preparadas para evoluir.
 
-## 💼 Experiência
+Também desenvolvo a **Conjuga**, empresa de engenharia de software que estou construindo e lançando.
 
-- Suporte técnico N1/N2
-- Atendimento e suporte a usuários
-- Sustentação de aplicações em produção
-- Troubleshooting e análise de incidentes
-- Gestão de chamados
-- Diagnóstico de aplicações utilizando DevTools
-- Controle de versão com Git/GitHub
-- Ambientes Windows e Linux
-- Redes TCP/IP
-- APIs REST e integrações web
-- Desenvolvimento com React.js, Next.js e TypeScript
+Estou aberto a oportunidades como **Desenvolvedor Front-end**, especialmente com React, Next.js e TypeScript, enquanto avanço na construção da Conjuga.
+
+🌐 **Portfólio:** https://marllon.netlify.app  
+🚀 **Conjuga:** https://conjuga.vercel.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/marllon-panisset  
+📧 **Contato:** marllon.web@gmail.com  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Stack principal
 
-### Infraestrutura
+### Desenvolvimento front-end
 
-- Windows
-- Linux
-- Redes TCP/IP
-- Hardware
+- JavaScript e TypeScript
+- React.js e Next.js
+- HTML5, CSS3 e Tailwind CSS
+- Interfaces responsivas
+- Acessibilidade
 
-### Suporte
+### Qualidade e engenharia
 
-- Troubleshooting
-- Gestão de chamados
-- Application Support
-- DevTools
-
-### Desenvolvimento
-
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- APIs REST
-- Git/GitHub
-
-### Dados e Automação
-
-- Python
-- SQL
-- Pandas
-- Streamlit
+- Componentização e organização modular
+- Testes com Vitest e React Testing Library
+- SEO técnico e otimização de desempenho
+- Git e GitHub
+- DevTools, debugging e análise de aplicações
 
 ---
 
-## 📚 Atualmente estudando
+## Projeto em destaque
 
-Atualmente estou aprofundando conhecimentos em:
+### Conjuga — Engenharia de Software
 
-- Introdução à Cibersegurança (Cisco Skills for All)
-- SQL
-- APIs REST
-- Testes automatizados com Vitest e React Testing Library
-- Gerenciamento de estado em aplicações React (Context API e Redux Toolkit)
-- Gerenciamento de dados assíncronos com React Query (TanStack Query)
+**Status:** em fase de lançamento
 
----
+A Conjuga é uma empresa de engenharia de software voltada inicialmente para empresas de serviços. Sua primeira fase combina presença digital, sistemas web, automações e integrações.
 
-## ✅ Boas práticas de desenvolvimento
+Além do desenvolvimento do site institucional, o projeto envolveu:
 
-Também aplico boas práticas de desenvolvimento em projetos pessoais, incluindo:
+- definição do posicionamento da empresa
+- estruturação inicial dos serviços
+- arquitetura da informação e organização das páginas
+- criação de uma interface responsiva e acessível
+- desenvolvimento de componentes reutilizáveis
+- SEO técnico e otimização de desempenho
+- preparação da base para manutenção e evolução
 
-- Arquitetura baseada em componentes reutilizáveis
-- Organização modular de componentes
-- Testes automatizados com Vitest e React Testing Library
-- Tipagem com TypeScript
-- SEO utilizando Metadata API do Next.js
-- Controle de versão com Git
+**Tecnologias:** Next.js, React, TypeScript e Tailwind CSS  
+**Site:** https://conjuga.vercel.app  
+**Código:** https://github.com/marllonpanisset/conjuga  
 
 ---
 
-## 🎯 Objetivo profissional
+## Outros projetos
 
-Busco oportunidades como **Desenvolvedor Front-end** ou **Analista de Suporte**, áreas nas quais posso aplicar minha experiência em suporte técnico, infraestrutura e desenvolvimento web para contribuir com a construção, manutenção e evolução de aplicações.
+### Portfólio Profissional
 
-No longo prazo, pretendo construir uma carreira sólida em tecnologia e, futuramente, direcionar minha especialização para Segurança da Informação, evoluindo por meio de aprendizado contínuo, experiência prática e desenvolvimento técnico.
+Portfólio desenvolvido em Next.js para apresentar minha trajetória, projetos e conhecimentos técnicos.
+
+O projeto utiliza arquitetura de componentes, TypeScript, SEO técnico, acessibilidade e testes automatizados.
+
+**Site:** https://marllon.netlify.app  
+
+### Dashboard Interativo de Salários
+
+Aplicação para exploração e visualização de dados salariais, desenvolvida com Python, Pandas e Streamlit.
+
+**Aplicação:** https://dashboard-interativo-com-python.streamlit.app  
 
 ---
 
-## 🚀 Projetos
+## Desenvolvimento técnico
 
-Alguns projetos desenvolvidos para aplicar conhecimentos técnicos e explorar diferentes áreas da tecnologia.
+### Em especialização
 
-### 🌐 Portfólio Profissional
+Atualmente estou aprofundando conhecimentos necessários para evoluir do desenvolvimento front-end para a construção e entrega de aplicações completas:
 
-Portfólio desenvolvido em Next.js com foco em arquitetura de software, SEO, testes automatizados, acessibilidade e documentação da minha trajetória profissional.
+- Node.js com TypeScript e APIs REST
+- SQL, PostgreSQL e modelagem de dados
+- Autenticação e autorização
+- Testes de integração e ponta a ponta
+- Docker e ambientes conteinerizados
+- CI/CD com GitHub Actions
 
-https://marllon.netlify.app
+### Próximos ciclos de estudo
 
-### 💼 Brototec
+Após consolidar a construção de aplicações completas, meu plano de desenvolvimento inclui:
 
-Conceito de plataforma para organização da presença digital de pequenos negócios, explorando desenvolvimento de aplicações web, arquitetura modular e experiência do usuário.
+- Segurança de aplicações e APIs
+- OpenAPI e documentação de serviços
+- Observabilidade: logs, métricas e monitoramento
+- Fundamentos de cloud computing
+- Infraestrutura como código
+- Aplicações com LLMs
+- RAG, busca semântica e tool calling
+- Agentes de IA
+- Avaliação, segurança e controle de custos em sistemas de IA
+- Kubernetes e GitOps
 
-https://brototec.vercel.app
+Minha prioridade é consolidar Docker, deploy, CI/CD, redes e fundamentos de cloud antes de avançar para Kubernetes e GitOps.
 
-### 🏨 Pousada Profissional
+### Cursos e certificações
 
-Site modelo desenvolvido em Next.js para demonstrar uma solução moderna de presença digital para meios de hospedagem.
+**Em andamento**
 
-https://pousada-profissional.netlify.app/
+- Introdução à Cibersegurança — Cisco Networking Academy
 
-### 📊 Dashboard Interativo de Salários
+**Prioridades futuras**
 
-Aplicação para análise de dados utilizando Python, Pandas e Streamlit.
+- GitHub Foundations
+- AWS Certified Cloud Practitioner ou Microsoft Azure Fundamentals — AZ-900
+- Certificação de fundamentos de bancos de dados e SQL
+- Certificação de fundamentos Linux
+- Certificação relacionada à segurança de aplicações e cloud
 
-https://dashboard-interativo-com-python.streamlit.app/
+As certificações serão priorizadas de acordo com sua aplicação prática nos projetos que estiver desenvolvendo.
+
+---
+
+## Formação
+
+### Engenharia de Software — UniCesumar
+
+**Cursando · 2026–2030**
+
+---
+
+## Base profissional
+
+Minha experiência em suporte técnico, manutenção, infraestrutura e sustentação de aplicações influencia diretamente minha forma de desenvolver software.
+
+Além da interface, considero aspectos como:
+
+- organização e manutenção do código
+- diagnóstico e resolução de problemas
+- estabilidade da aplicação
+- integração entre sistemas
+- experiência do usuário
+- acessibilidade e desempenho
+- comportamento da aplicação em produção
