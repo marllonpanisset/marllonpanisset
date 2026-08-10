@@ -1,152 +1,229 @@
 # Olá! Eu sou Marllon Panisset 👋
 
-**Desenvolvedor Front-end | React · Next.js · TypeScript**
+**Desenvolvedor Front-End | React • Next.js • TypeScript**
 
-Minha trajetória com tecnologia começou ainda na adolescência: comecei a estudar HTML em 2006, fiz minha primeira formação em informática em 2007 e trabalho profissionalmente com Tecnologia da Informação desde 2011.
+Sou Desenvolvedor Front-End com experiência no desenvolvimento de aplicações web, plataformas digitais e e-commerces.
 
-Depois de construir uma base em suporte técnico, manutenção, infraestrutura e sustentação de aplicações, direcionei minha carreira para o desenvolvimento front-end em 2016.
+Atualmente curso **Bacharelado em Engenharia de Software** e utilizo meus projetos pessoais como laboratório para aplicar, na prática, os conhecimentos da graduação e evoluir continuamente como engenheiro de software.
 
-Hoje, curso **Engenharia de Software na UniCesumar** e concentro meu desenvolvimento profissional na construção de aplicações web bem estruturadas, acessíveis, testáveis e preparadas para evoluir.
+Meu foco atual é desenvolver aplicações modernas com React, Next.js e TypeScript, enquanto aprofundo meus conhecimentos em Node.js, arquitetura de software, bancos de dados, Docker, CI/CD e Inteligência Artificial aplicada.
 
-Também desenvolvo a **Conjuga**, empresa de engenharia de software que estou construindo e lançando.
-
-Estou aberto a oportunidades como **Desenvolvedor Front-end**, especialmente com React, Next.js e TypeScript, enquanto avanço na construção da Conjuga.
-
-🌐 **Portfólio:** https://marllon.netlify.app  
-🚀 **Conjuga:** https://conjuga.vercel.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/marllon-panisset  
-📧 **Contato:** marllon.web@gmail.com  
+Também estou construindo a **Conjuga**, projeto que concentra minha evolução técnica e servirá como base para futuros produtos, serviços e experimentos em engenharia de software.
 
 ---
 
-## Stack principal
+## Contato
 
-### Desenvolvimento front-end
+🌐 **Portfólio**  
+https://marllon.netlify.app
 
-- JavaScript e TypeScript
-- React.js e Next.js
-- HTML5, CSS3 e Tailwind CSS
-- Interfaces responsivas
+🚀 **Conjuga**  
+https://conjuga.com.br
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/marllon-panisset
+
+📧 **E-mail**  
+marllon.web@gmail.com
+
+---
+
+# Stack Principal
+
+## Front-End
+
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- SCSS
+- Tailwind CSS
+
+## Desenvolvimento Web
+
+- Componentização
+- Responsividade
+- SEO
+- Performance
 - Acessibilidade
+- Integração com APIs REST
 
-### Qualidade e engenharia
+## Plataformas
 
-- Componentização e organização modular
-- Testes com Vitest e React Testing Library
-- SEO técnico e otimização de desempenho
-- Git e GitHub
-- DevTools, debugging e análise de aplicações
+- VTEX IO
+- VTEX Legacy
+- WordPress
+- Drupal
+- Hugo
+- Pug
+- Markdown
 
----
+## Ferramentas
 
-## Projeto em destaque
-
-### Conjuga — Engenharia de Software
-
-**Status:** em fase de lançamento
-
-A Conjuga é uma empresa de engenharia de software voltada inicialmente para empresas de serviços. Sua primeira fase combina presença digital, sistemas web, automações e integrações.
-
-Além do desenvolvimento do site institucional, o projeto envolveu:
-
-- definição do posicionamento da empresa
-- estruturação inicial dos serviços
-- arquitetura da informação e organização das páginas
-- criação de uma interface responsiva e acessível
-- desenvolvimento de componentes reutilizáveis
-- SEO técnico e otimização de desempenho
-- preparação da base para manutenção e evolução
-
-**Tecnologias:** Next.js, React, TypeScript e Tailwind CSS  
-**Site:** https://conjuga.vercel.app  
-**Código:** https://github.com/marllonpanisset/conjuga  
+- Git
+- GitHub
+- Linux
+- Docker
+- Figma
 
 ---
 
-## Outros projetos
+# Projeto Principal
 
-### Portfólio Profissional
+## Conjuga — Laboratório de Engenharia de Software
 
-Portfólio desenvolvido em Next.js para apresentar minha trajetória, projetos e conhecimentos técnicos.
+A Conjuga é o principal projeto deste GitHub.
 
-O projeto utiliza arquitetura de componentes, TypeScript, SEO técnico, acessibilidade e testes automatizados.
+Mais do que um site institucional, ela funciona como um laboratório de engenharia de software, onde aplico continuamente os conhecimentos adquiridos na graduação, em livros, cursos e estudos independentes.
 
-**Site:** https://marllon.netlify.app  
+Cada nova funcionalidade representa um novo ciclo de aprendizado e evolução técnica.
 
-### Dashboard Interativo de Salários
+O projeto evolui continuamente para incorporar tecnologias e práticas modernas de desenvolvimento de software.
 
-Aplicação para exploração e visualização de dados salariais, desenvolvida com Python, Pandas e Streamlit.
+### Tecnologias atuais
 
-**Aplicação:** https://dashboard-interativo-com-python.streamlit.app  
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+
+### Próximas evoluções
+
+- Node.js
+- PostgreSQL
+- APIs REST
+- Autenticação
+- Docker
+- CI/CD
+- Testes automatizados
+- Arquitetura de Software
+- Inteligência Artificial
+- MCP
+- RAG
+- Agentes
+
+🔗 Site:
+https://conjuga.com.br
+
+🔗 Código:
+https://github.com/marllonpanisset/conjuga
 
 ---
 
-## Desenvolvimento técnico
+# Projetos
 
-### Em especialização
+## Portfólio Profissional
 
-Atualmente estou aprofundando conhecimentos necessários para evoluir do desenvolvimento front-end para a construção e entrega de aplicações completas:
+Aplicação desenvolvida em Next.js para apresentar minha trajetória profissional, projetos técnicos e artigos sobre desenvolvimento de software.
 
-- Node.js com TypeScript e APIs REST
-- SQL, PostgreSQL e modelagem de dados
-- Autenticação e autorização
-- Testes de integração e ponta a ponta
-- Docker e ambientes conteinerizados
-- CI/CD com GitHub Actions
+Tecnologias:
 
-### Próximos ciclos de estudo
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- MDX
 
-Após consolidar a construção de aplicações completas, meu plano de desenvolvimento inclui:
+🔗 Demo:
+https://marllon.netlify.app
 
-- Segurança de aplicações e APIs
-- OpenAPI e documentação de serviços
-- Observabilidade: logs, métricas e monitoramento
-- Fundamentos de cloud computing
-- Infraestrutura como código
-- Aplicações com LLMs
-- RAG, busca semântica e tool calling
+---
+
+## Dashboard Interativo de Salários
+
+Projeto desenvolvido durante a Imersão Dados com Python da Alura para exploração e visualização de dados através de uma interface interativa.
+
+Tecnologias:
+
+- Python
+- Pandas
+- Streamlit
+
+---
+
+## Brototec
+
+Projeto conceitual desenvolvido para simular a presença digital de uma empresa de tecnologia.
+
+Focado em:
+
+- Arquitetura de componentes
+- SEO
+- Performance
+- Responsividade
+- UX
+
+---
+
+## Pousada Profissional
+
+Protótipo de website para meios de hospedagem desenvolvido para explorar componentização, rotas dinâmicas e arquitetura de aplicações utilizando Next.js.
+
+---
+
+# Roadmap de Engenharia de Software
+
+Estou utilizando a Conjuga como projeto principal para aplicar tudo o que estudo durante a graduação.
+
+## Em andamento
+
+- Bacharelado em Engenharia de Software
+- Node.js
+- PostgreSQL
+- Arquitetura de Software
+- Docker
+- APIs REST
+- Inteligência Artificial aplicada
+
+## Próximos ciclos
+
+- Testes automatizados
+- CI/CD
+- GitHub Actions
+- Observabilidade
+- Cloud Computing
+- Segurança de aplicações
+- LLMs
+- MCP
+- RAG
 - Agentes de IA
-- Avaliação, segurança e controle de custos em sistemas de IA
-- Kubernetes e GitOps
+- Kubernetes
 
-Minha prioridade é consolidar Docker, deploy, CI/CD, redes e fundamentos de cloud antes de avançar para Kubernetes e GitOps.
+---
 
-### Cursos e certificações
+# Certificações
 
-**Em andamento**
+## Em andamento
 
-- Introdução à Cibersegurança — Cisco Networking Academy
+- Cisco Certified Support Technician (CCST Cybersecurity)
 
-**Prioridades futuras**
+## Planejadas
 
 - GitHub Foundations
-- AWS Certified Cloud Practitioner ou Microsoft Azure Fundamentals — AZ-900
-- Certificação de fundamentos de bancos de dados e SQL
-- Certificação de fundamentos Linux
-- Certificação relacionada à segurança de aplicações e cloud
-
-As certificações serão priorizadas de acordo com sua aplicação prática nos projetos que estiver desenvolvendo.
+- AWS Cloud Practitioner ou AZ-900
+- PostgreSQL / SQL
+- Docker
+- Linux
 
 ---
 
-## Formação
+# Formação
 
-### Engenharia de Software — UniCesumar
+## Bacharelado em Engenharia de Software
 
-**Cursando · 2026–2030**
+**UniCesumar**
+
+2026 – 2030
 
 ---
 
-## Base profissional
+# Filosofia
 
-Minha experiência em suporte técnico, manutenção, infraestrutura e sustentação de aplicações influencia diretamente minha forma de desenvolver software.
+Acredito que engenharia de software se aprende construindo software.
 
-Além da interface, considero aspectos como:
+Por isso, concentro meus estudos em projetos reais, utilizando cada nova tecnologia para resolver problemas concretos e consolidar conhecimento através da prática.
 
-- organização e manutenção do código
-- diagnóstico e resolução de problemas
-- estabilidade da aplicação
-- integração entre sistemas
-- experiência do usuário
-- acessibilidade e desempenho
-- comportamento da aplicação em produção
+Meu objetivo é evoluir continuamente do desenvolvimento Front-End para a construção de aplicações completas, unindo arquitetura, qualidade, automação e Inteligência Artificial.
